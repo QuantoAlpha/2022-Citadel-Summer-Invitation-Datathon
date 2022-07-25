@@ -16,7 +16,8 @@ We proceed to answer our questions by framing it into a binary classification pr
 We found the following five most important features that associate to debtor’s hardship status<br />
 (a) Debt to income ratio (DTI): Demographic Feature<br />
 (b) Total Revolving Balance/Credit Limit (TRBL): Credit Feature<br />
-(c) County Unemployment Insurance Benefit amount (UIB): Inter-Temporal Economics Feature (d) Annual Income (AI): Demographic Feature<br />
+(c) County Unemployment Insurance Benefit amount (UIB): Inter-Temporal Economics Feature <br />
+(d) Annual Income (AI): Demographic Feature<br />
 (e) Number of open accounts/credit lines (OA): Credit Feature<br /><br />
 At the end, we characterized three types of hardship debtors using above five features:<br />
 (a) Living in county where unemployment insurance benefit issuance is high and possess high debt-to-income ratio<br />
