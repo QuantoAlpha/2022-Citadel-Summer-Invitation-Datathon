@@ -13,7 +13,7 @@ Key Findings:
 
 We proceed to answer our questions by framing it into a binary classification problem. We took the accepted debtor dataset and expand it through years, so the expanded dataset is indexed by individual and year. Then, we select and engineered three groups of features: macroeconomic condition factors, demographic distribution, and ex-ante credit-worthiness. This would be the feature of our binary classification model, and the labels are whether a debtor at a specific year enters the hardship plan. After building two "good" models that reached certain out-of-sample accuracy, we would like to evaluate the feature importance in the two models. The two models are SVM and Random Forest. We computed feature importance using mean decrease in impurity and permutation importance metric for Support Vector Machine (SVM) and Random Forests, and developed a final ranking system.
 
-We found the following five most important features that associate to debtor’s hardship status
+We found the following five most important features that associate to debtor’s hardship status<\b>
 (a) Debt to income ratio (DTI): Demographic Feature
 (b) Total Revolving Balance/Credit Limit (TRBL): Credit Feature
 (c) County Unemployment Insurance Benefit amount (UIB): Inter-Temporal Economics Feature (d) Annual Income (AI): Demographic Feature
