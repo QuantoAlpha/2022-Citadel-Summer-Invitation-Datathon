@@ -5,7 +5,7 @@ Introduction:
 Since its first launch in 2007 to becoming the world’s largest p2p lending platform in 2014, Lending Club has always made its mission to “provide financial health to Americans through leveraging technology and a marketplace model to seamlessly deliver access to fair and affordable credit”[1]. Starting from May 2017, Lending Club started offering hardship plans to borrowers which allowed for interest-rate only payments in light of unexpected life events, thus, providing additional flexibility to borrowers while securing returns for investors to otherwise charge-off loans[2].
 There are numerous causes for hardship submitted by applicants. Nevertheless, a majority of them can be explained by three factors: macroeconomic condition, demographic distribution, and ex-ante credit-worthiness. As such, we seek to explore the relative importance of three factors in relation to hardship status. Specifically, we post two research questions.
 
-Problem 1: Which features contribute more than others in identifying hardship conditions? 
+Problem 1: Which features contribute more than others in identifying hardship conditions? <br />
 Problem 2: Can we predict whether a given individual should be in the hardship program?
 
 
@@ -17,7 +17,7 @@ We found the following five most important features that associate to debtor’s
 (a) Debt to income ratio (DTI): Demographic Feature<br />
 (b) Total Revolving Balance/Credit Limit (TRBL): Credit Feature<br />
 (c) County Unemployment Insurance Benefit amount (UIB): Inter-Temporal Economics Feature (d) Annual Income (AI): Demographic Feature<br />
-(e) Number of open accounts/credit lines (OA): Credit Feature<br />
+(e) Number of open accounts/credit lines (OA): Credit Feature<br /><br />
 At the end, we characterized three types of hardship debtors using above five features:<br />
 (a) Living in county where unemployment insurance benefit issuance is high and possess high debt-to-income ratio<br />
 (b) High Debt-to-income ratio, high number of open credit accounts and low revolving credit <br />
