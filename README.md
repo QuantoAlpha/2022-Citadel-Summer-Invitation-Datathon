@@ -1,4 +1,4 @@
-# 2024-Citadel-Summer-Invitation-Datathon
+# 2022-Citadel-Summer-Invitation-Datathon
 
 Introduction:
 
